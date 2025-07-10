@@ -14,4 +14,4 @@
 
 SEO优化仍然是平台成功的关键之一。通过精确的关键词布局、优质的内容以及合理的内外链设置，平台能够在搜索引擎中获得更好的排名，吸引更多流量。通过数据分析和市场研究，站长可以不断优化网站内容和功能，提高平台的用户满意度和流量获取能力。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/bob20250710/ribenx4215 ）</span>
